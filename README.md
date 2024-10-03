@@ -1,4 +1,4 @@
-# ведение в веб разроботку
+# Ведение в веб-разроботку
 >“Программирование - это не просто наука, это искусство.” - Неизвестный автор
 ## План обучения
 1. Изучить основы HTML
@@ -19,6 +19,7 @@ JavaScript - **это язык программирования, который 
 поведение на веб-страницах. Он используется для создания интерактивных элементов, 
 таких как кнопки, формы и анимации.**
 # Пример кода
+### HTML
 ```HTML
 <!DOCTYPE html>
 <html lang="en">
@@ -38,6 +39,7 @@ JavaScript - **это язык программирования, который 
 </body>
 </html>
 ```
+### CSS
 ```CSS
 body {
  font-family: Arial, sans-serif;
@@ -72,6 +74,7 @@ button:hover {
  background-color: #0056b3;
 }
 ```
+### JavaScript
 ```JavaScript
 function showMessage() {
  alert('Привет, мир!');
@@ -86,9 +89,6 @@ document.addEventListener('DOMContentLoaded', function() {
 - [x] Изучить основы Markdown
 - [ ] Создать свой первый веб-сайт
 ## Ссылки
-JavaScript
 [JavaScript](https://learn.javascript.ru/?ysclid=m1rzgxjl32521824358)
-CSS
 [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-HTML
 [HTML](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)
